@@ -1,4 +1,9 @@
-## ## Oiii eu sou a Sophia Melo, criadora de de programação e tecnologia!
+## ## Oiii eu sou a Sophia Melo
+Sou estudante de Ciência de Dados e Machine Learning no Centro Universitário de Brasília (CEUB). Criei este perfil como um espaço para compartilhar meus estudos, projetos e experimentos na área de dados, enquanto desenvolvo habilidades práticas e aprofundo meus conhecimentos nesse universo instigante.
+
+Atualmente, tenho me dedicado a projetos que envolvem análise e visualização de dados, sempre com o objetivo de aprender fazendo e explorar novas ferramentas, métodos e abordagens.
+
+Fique à vontade para navegar pelo conteúdo, deixar sugestões ou trocar ideias. Toda contribuição é bem-vinda e valorizada! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
