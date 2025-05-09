@@ -16,5 +16,15 @@
   <a href="https://www.instagram.com/_sophiamello_?igsh=MWZ6bmZ2aTZndG04Zw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "sophiamelo159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  
+<hr/>
+
+### 
+
+<div align="center">
+<a href="https://github.com/sophia473">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sophia473&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophia473&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</a>
 </div>
+
+
